@@ -1,1 +1,1 @@
-Api_key="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"
+Api_key=<api_key_here>
